@@ -1,0 +1,293 @@
+{
+  "title": "澳洲布里斯本與黃金海岸16天深度探索之旅",
+  "duration": "16天15夜",
+  "startDate": "2025年7月26日",
+  "endDate": "2025年8月10日",
+  "days": [
+    {
+      "day": 1,
+      "date": "7/26 (六)",
+      "title": "臺灣桃園機場 ✈ 澳洲布里斯本",
+      "location": "Brisbane",
+      "activities": [
+        "桃園機場集合 (06:00)",
+        "搭乘長榮航空 BR315 (09:10 起飛)",
+        "抵達布里斯本 (20:00 當地時間)",
+        "入住 Swiss-Belhotel Brisbane"
+      ],
+      "meals": {
+        "breakfast": "敬請自理",
+        "lunch": "機上午餐", 
+        "dinner": "機上晚餐"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 2,
+      "date": "7/27 (日)",
+      "title": "初探布里斯本 - 城市行銷與藝術文化探索",
+      "location": "Brisbane",
+      "activities": [
+        "龍柏動物園 (Lone Pine Koala Sanctuary)",
+        "南岸公園與文創假日市集 (The Collective Markets at South Bank)",
+        "布里斯本市中心 - 喬治國王廣場與皇后街"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "中西式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 3,
+      "date": "7/28 (一)",
+      "title": "TAFE Queensland 數位媒體培訓課程 (第一天)",
+      "location": "Brisbane",
+      "activities": [
+        "09:00-09:30 歡迎會與校園導覽",
+        "09:30-12:00 攝影基礎課程",
+        "12:00-13:00 午休",
+        "13:00-15:00 攝影基礎課程",
+        "18:00-20:00 社交夜活動 (第一組)"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "澳洲漢堡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 4,
+      "date": "7/29 (二)",
+      "title": "TAFE Queensland 數位媒體培訓課程 (第二天)",
+      "location": "Brisbane",
+      "activities": [
+        "09:00-15:00 影片製作課程",
+        "課程成果：拍攝產出可用於品牌影片或社群短片的影像素材"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "中西式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 5,
+      "date": "7/30 (三)",
+      "title": "創客空間體驗與技能培訓",
+      "location": "Brisbane",
+      "activities": [
+        "Brisbane Makerspace 參訪",
+        "09:30-10:00 歡迎與導覽",
+        "10:00-12:00 3D 列印工作坊",
+        "13:00-15:00 雷射切割工作坊",
+        "15:45-16:45 電子與編程講座",
+        "18:00-20:00 社交夜活動 (第二組)"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "中西式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 6,
+      "date": "7/31 (四)",
+      "title": "數位創新與圖書館探索",
+      "location": "Brisbane",
+      "activities": [
+        "09:00-12:00 剪輯與後製課程",
+        "13:00-15:00 影片製作課程延續",
+        "15:30-16:30 State Library of Queensland \"The Edge\" 創新實驗室參訪"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "中西式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 7,
+      "date": "8/1 (五)",
+      "title": "畢業典禮與前往黃金海岸",
+      "location": "Brisbane → Gold Coast",
+      "activities": [
+        "09:00-12:00 布里斯本市公共藝術步道導覽",
+        "12:30-13:15 TAFE 餐廳慶祝午餐",
+        "13:30-15:00 畢業典禮與團體拍照",
+        "專車前往黃金海岸"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "中西式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "voco Gold Coast"
+    },
+    {
+      "day": 8,
+      "date": "8/2 (六)",
+      "title": "黃金海岸城市探索",
+      "location": "Gold Coast",
+      "activities": [
+        "HOTA 藝術中心與農夫市集",
+        "Marina Mirage 購物中心",
+        "Duffy Boat 遊船體驗",
+        "Pelican Feeding 餵食鵜鶘",
+        "品嚐 Fish & Chips",
+        "Harbour Town Outlet 購物"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "Fish & Chips",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "voco Gold Coast"
+    },
+    {
+      "day": 9,
+      "date": "8/3 (日)",
+      "title": "探索創意與美學結合的綠色旅遊城市",
+      "location": "Gold Coast",
+      "activities": [
+        "自由探索黃金海岸",
+        "海灘活動體驗",
+        "城市綠色旅遊探索"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "現金餐費 AU$20",
+        "dinner": "現金餐費 AU$20"
+      },
+      "accommodation": "voco Gold Coast"
+    },
+    {
+      "day": 10,
+      "date": "8/4 (一)",
+      "title": "華納兄弟電影世界工作坊",
+      "location": "Gold Coast",
+      "activities": [
+        "Warner Bros. Movie World 導覽",
+        "世界級遊樂設施介紹",
+        "正義聯盟、超人逃脫等設施體驗",
+        "Village Roadshow Studios 參訪",
+        "影視產業第一手見解"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "現金餐費 AU$20",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "voco Gold Coast"
+    },
+    {
+      "day": 11,
+      "date": "8/5 (二)",
+      "title": "返回布里斯本 - 新創企業參訪",
+      "location": "Gold Coast → Brisbane",
+      "activities": [
+        "Riverlife 新創企業參訪",
+        "主題：靈感到執行 - 打造不同型態的城市創意行銷",
+        "企業介紹與工作坊",
+        "Brisbane River 獨木舟冒險體驗"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "澳式簡餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 12,
+      "date": "8/6 (三)",
+      "title": "昆士蘭大學創新工作坊",
+      "location": "Brisbane",
+      "activities": [
+        "UQ Ventures 創新工作坊",
+        "昆士蘭大學創業與創新體驗",
+        "學術與產業結合的創新模式探索"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "UQ 學生餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "Swiss-Belhotel Brisbane"
+    },
+    {
+      "day": 13,
+      "date": "8/7 (四)",
+      "title": "工程技術學院體驗",
+      "location": "Brisbane",
+      "activities": [
+        "UQ EAIT STEM 工作坊",
+        "工程、建築與資訊技術學院體驗",
+        "前沿科技與研究展示"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "UQ 學生餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "voco Brisbane City Centre"
+    },
+    {
+      "day": 14,
+      "date": "8/8 (五)",
+      "title": "虛擬實境技術體驗",
+      "location": "Brisbane",
+      "activities": [
+        "VR 工作坊與研究展示",
+        "UQ 電機工程與電腦科學學院",
+        "最新 VR 技術應用體驗"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "UQ 學生餐",
+        "dinner": "西式風味餐或亞洲料理"
+      },
+      "accommodation": "voco Brisbane City Centre"
+    },
+    {
+      "day": 15,
+      "date": "8/9 (六)",
+      "title": "布里斯本最後探索與購物",
+      "location": "Brisbane",
+      "activities": [
+        "發電與農夫市集 (PowerHouse and Farmer Market)",
+        "庫薩山植物園與瞭望台 (Mount Coot-tha Botanic Gardens)",
+        "創意夜市 Eat Street Northshore",
+        "晚餐後前往機場"
+      ],
+      "meals": {
+        "breakfast": "飯店早餐",
+        "lunch": "澳洲風味餐",
+        "dinner": "現金餐費 AU$20"
+      },
+      "accommodation": "夜宿飛機上"
+    },
+    {
+      "day": 16,
+      "date": "8/10 (日)",
+      "title": "澳洲布里斯本 ✈ 臺灣桃園機場",
+      "location": "飛行中",
+      "activities": [
+        "搭乘長榮航空 BR316 (22:15 起飛)",
+        "早晨抵達桃園國際機場 (05:15)",
+        "結束難忘的青年百億海外圓夢基金計畫"
+      ],
+      "meals": {
+        "breakfast": "機上套餐",
+        "lunch": "X",
+        "dinner": "X"
+      },
+      "accommodation": "溫暖的家"
+    }
+  ]
+}

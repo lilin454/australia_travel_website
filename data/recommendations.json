@@ -1,0 +1,163 @@
+{
+  "restaurants": [
+    {
+      "name": "66 on Ernest",
+      "location": "TAFE Queensland 附近",
+      "type": "精緻餐飲",
+      "price": "AUD $35-80",
+      "description": "TAFE Queensland 自營的訓練餐廳，由餐飲系學生提供高品質餐點",
+      "address": "66 Ernest St, South Brisbane QLD 4101",
+      "highlights": ["學生訓練餐廳", "高性價比", "需提前預約"]
+    },
+    {
+      "name": "Ahmet's Turkish Restaurant",
+      "location": "South Brisbane",
+      "type": "土耳其料理",
+      "price": "AUD $25-40",
+      "description": "道地土耳其料理，華麗裝潢，夜晚有肚皮舞表演",
+      "address": "10/168 Grey St, South Brisbane QLD 4101",
+      "highlights": ["異國風情", "肚皮舞表演", "適合團體聚餐"]
+    },
+    {
+      "name": "The Terrace - Emporium Hotel",
+      "location": "South Bank",
+      "type": "屋頂酒吧",
+      "price": "AUD $15-30",
+      "description": "頂樓酒吧，俯瞰南岸公園與布里斯本河景",
+      "address": "267 Grey St, South Brisbane QLD 4101",
+      "highlights": ["河景視野", "日落美景", "調酒專業"]
+    },
+    {
+      "name": "Saint Lucy Caffé e Cucina",
+      "location": "昆士蘭大學",
+      "type": "義大利料理",
+      "price": "AUD $25-40",
+      "description": "校園內義大利餐廳，戶外座位悠閒",
+      "address": "Building 8, Staff House Rd, University of Queensland",
+      "highlights": ["校園餐廳", "戶外用餐", "義式正宗"]
+    },
+    {
+      "name": "Bazaar - QT Gold Coast",
+      "location": "Surfers Paradise",
+      "type": "創意自助餐",
+      "price": "AUD $90-110",
+      "description": "以市集為概念的創意自助餐，現場烹調",
+      "address": "7 Staghorn Ave, Surfers Paradise QLD 4217",
+      "highlights": ["創意料理", "現場烹調", "時尚氛圍"]
+    },
+    {
+      "name": "Omeros Bros Seafood Restaurant", 
+      "location": "Main Beach",
+      "type": "海鮮料理",
+      "price": "AUD $40-80",
+      "description": "黃金海岸知名海鮮餐廳，遊艇碼頭景色",
+      "address": "74 Seaworld Dr, Main Beach QLD 4217",
+      "highlights": ["新鮮海鮮", "碼頭景觀", "高檔用餐"]
+    }
+  ],
+  "attractions": [
+    {
+      "name": "龍柏動物園",
+      "type": "動物園",
+      "description": "世界知名的無尾熊保護區，可近距離接觸澳洲本土動物",
+      "highlights": ["抱無尾熊", "袋鼠餵食", "本土動物"],
+      "duration": "3-4 小時"
+    },
+    {
+      "name": "南岸公園",
+      "type": "公園娛樂",
+      "description": "布里斯本文化中心，人造沙灘、藝術館、博物館聚集地",
+      "highlights": ["人造沙灘", "文化設施", "河岸步道"],
+      "duration": "半天"
+    },
+    {
+      "name": "Eat Street Northshore",
+      "type": "美食市集",
+      "description": "貨櫃組成的河岸市集，世界各地美食聚集",
+      "highlights": ["貨櫃市集", "國際美食", "河岸氛圍"],
+      "duration": "2-3 小時"
+    },
+    {
+      "name": "Story Bridge Adventure Climb",
+      "type": "冒險體驗",
+      "description": "攀爬故事橋，360度俯瞰布里斯本市景",
+      "highlights": ["城市全景", "冒險體驗", "日落時分"],
+      "duration": "2.5 小時"
+    },
+    {
+      "name": "Surfers Paradise Beach",
+      "type": "海灘",
+      "description": "黃金海岸最知名的海灘，衝浪天堂",
+      "highlights": ["衝浪", "海灘漫步", "天際線"],
+      "duration": "自由安排"
+    },
+    {
+      "name": "Currumbin Wildlife Sanctuary",
+      "type": "野生動物園",
+      "description": "黃金海岸野生動物保護區，彩虹鸚鵡餵食",
+      "highlights": ["彩虹鸚鵡", "野生動物", "生態教育"],
+      "duration": "半天"
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Queen Street Mall",
+      "location": "Brisbane CBD",
+      "type": "購物中心",
+      "description": "布里斯本主要購物街，百貨公司與專賣店聚集",
+      "highlights": ["步行街", "百貨齊全", "交通便利"]
+    },
+    {
+      "name": "Harbour Town Premium Outlets",
+      "location": "Gold Coast",
+      "type": "暢貨中心",
+      "description": "黃金海岸最大的暢貨中心，國際品牌折扣店",
+      "highlights": ["品牌折扣", "免稅購物", "巨大規模"]
+    },
+    {
+      "name": "Marina Mirage",
+      "location": "Main Beach",
+      "type": "精品購物",
+      "description": "高級購物中心，澳洲設計師品牌聚集",
+      "highlights": ["設計師品牌", "奢華環境", "碼頭景觀"]
+    }
+  ],
+  "tips": [
+    {
+      "category": "交通",
+      "items": [
+        "購買 Go Card 享優惠票價",
+        "CityCat 渡輪是遊覽河景的最佳方式",
+        "市中心免費巴士 City Loop 很方便",
+        "共享單車/滑板車適合短程移動"
+      ]
+    },
+    {
+      "category": "天氣",
+      "items": [
+        "7-8月是澳洲冬季，白天10-21°C",
+        "早晚溫差大，建議洋蔥式穿搭",
+        "紫外線仍強烈，務必防曬 SPF 50+",
+        "氣候乾燥，需攜帶保濕用品"
+      ]
+    },
+    {
+      "category": "文化",
+      "items": [
+        "澳洲沒有強制小費文化",
+        "自來水可直接生飲",
+        "信用卡與行動支付普及",
+        "電壓 230V，需三孔轉接頭"
+      ]
+    },
+    {
+      "category": "購物",
+      "items": [
+        "同店消費滿 AU$300 可機場退稅",
+        "必須在離境前60天內購買",
+        "保留所有購物收據",
+        "建議攜帶海外回饋信用卡"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "locations": [
+    {
+      "name": "Brisbane Airport",
+      "type": "airport",
+      "coordinates": {
+        "lat": -27.3840451,
+        "lng": 153.1168828
+      },
+      "description": "布里斯本機場 - Day 1抵達 / Day 15離開",
+      "icon": "✈️"
+    },
+    {
+      "name": "Swiss-Belhotel Brisbane",
+      "type": "accommodation",
+      "coordinates": {
+        "lat": -27.4843968,
+        "lng": 153.0361534
+      },
+      "description": "主要住宿飯店 - Day 1-5住宿",
+      "icon": "🏨"
+    },
+    {
+      "name": "voco Brisbane City Centre",
+      "type": "accommodation", 
+      "coordinates": {
+        "lat": -27.4697015,
+        "lng": 153.021209
+      },
+      "description": "市中心住宿飯店 - Day 13-14住宿",
+      "icon": "🏨"
+    },
+    {
+      "name": "TAFE Queensland Brisbane",
+      "type": "education",
+      "coordinates": {
+        "lat": -27.4704528,
+        "lng": 153.0260341
+      },
+      "description": "數位媒體培訓課程地點 - Day 2-6課程與工作坊",
+      "icon": "🎓"
+    },
+    {
+      "name": "State Library of Queensland",
+      "type": "culture",
+      "coordinates": {
+        "lat": -27.4711751,
+        "lng": 153.0181294
+      },
+      "description": "昆士蘭州立圖書館 - Day 5創新實驗室參訪",
+      "icon": "📚"
+    },
+    {
+      "name": "University of Queensland",
+      "type": "education",
+      "coordinates": {
+        "lat": -27.49814,
+        "lng": 153.01108
+      },
+      "description": "昆士蘭大學 - Day 11-13創新工作坊與VR體驗",
+      "icon": "🎓"
+    },
+    {
+      "name": "Mount Coot-tha Botanic Gardens",
+      "type": "attraction",
+      "coordinates": {
+        "lat": -27.4763118,
+        "lng": 152.9750264
+      },
+      "description": "庫薩山植物園與瞭望台 - Day 14城市探索",
+      "icon": "🌲"
+    },
+    {
+      "name": "voco Gold Coast",
+      "type": "accommodation",
+      "coordinates": {
+        "lat": -28.0059884,
+        "lng": 153.4286471
+      },
+      "description": "黃金海岸住宿飯店 - Day 6-10住宿",
+      "icon": "🏨"
+    },
+    {
+      "name": "Warner Bros Movie World",
+      "type": "entertainment",
+      "coordinates": {
+        "lat": -27.906957,
+        "lng": 153.3131103
+      },
+      "description": "華納兄弟電影世界 - Day 9影視工作坊",
+      "icon": "🎬"
+    },
+    {
+      "name": "HOTA Gold Coast",
+      "type": "culture",
+      "coordinates": {
+        "lat": -28.0014535,
+        "lng": 153.4162592
+      },
+      "description": "黃金海岸藝術中心 - Day 7文化探索",
+      "icon": "🎨"
+    }
+  ],
+  "route": [
+    {
+      "from": "Brisbane Airport",
+      "to": "Swiss-Belhotel Brisbane",
+      "day": 1,
+      "transport": "專車接送"
+    },
+    {
+      "from": "Swiss-Belhotel Brisbane", 
+      "to": "voco Gold Coast",
+      "day": 7,
+      "transport": "專車"
+    },
+    {
+      "from": "voco Gold Coast",
+      "to": "Swiss-Belhotel Brisbane", 
+      "day": 11,
+      "transport": "專車"
+    },
+    {
+      "from": "Swiss-Belhotel Brisbane",
+      "to": "voco Brisbane City Centre",
+      "day": 13,
+      "transport": "步行/短程交通"
+    },
+    {
+      "from": "voco Brisbane City Centre",
+      "to": "Brisbane Airport",
+      "day": 15,
+      "transport": "專車送機"
+    }
+  ]
+}
